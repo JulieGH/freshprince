@@ -1,0 +1,14 @@
+h1 {
+	color:red;
+}
+
+body {
+	background-color: gray;
+	color:white;
+	text-align: center;
+	font: Tahoma;
+}
+
+ul{
+	list-style: none;
+}
